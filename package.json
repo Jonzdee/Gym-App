@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/Jonzdee/gym_app",
-  "name": "fitness_app",
+  "name": "gym-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
